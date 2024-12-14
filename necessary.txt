@@ -1,0 +1,7 @@
+tensorflow 2.17.0
+keras 3.5.0
+numpy 2.1.1
+random
+matplotlob 3.9.2
+os
+seaborn 0.13.2
